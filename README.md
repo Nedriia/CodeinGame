@@ -11,6 +11,8 @@ Solutions are coded using C++ 14
 * [Puzzle Classique Facile](#Puzzle-Classique-Facile)
 * [Puzzle Classique - Moyen](#Algorithms)
 * [Puzzle Classique - Difficile](#c)
+* [Bots Battle](#Bots-Battle)
+
 
                           
 # Puzzle Classique Facile
@@ -22,3 +24,8 @@ Solutions are coded using C++ 14
 |  3  | [Power of Thor- Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                       |                 [Solution.cpp]()                              |
 |  4  | [MIME Type](https://www.codingame.com/training/easy/mime-type)  |    [Solution.cpp]()  |
 |  5  | [Températures](https://www.codingame.com/training/easy/temperatures)           |            [Solution.cpp]()              |
+
+# Bots Battle
+|Puzzle|Challenge|Solution|
+|:---:|:--------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  1  | [Coders Strike Back](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back)                      |             [Solution.cpp]()                       |
