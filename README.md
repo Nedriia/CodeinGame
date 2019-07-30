@@ -13,15 +13,12 @@ Solutions are coded using C++ 14
 * [Puzzle Classique - Difficile](#c)
 
                           
-# 30 Days of Code
+# Puzzle Classique Facile
 
 |Puzzle|Challenge|Solution|
-|:---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  1  | [Hello, World](https://www.hackerrank.com/challenges/cpp-hello-world/problem)                                   [Solution.cpp]()                       |
-|  2  | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                                      [Solution.cpp]()                           |
-|  3  | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                                        [Solution.cpp]()                              |
-|  4  | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)      [Solution.cpp]()  |
-|  5  | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                       [Solution.cpp]()                 |
-|  6  | [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                                                [Solution.cpp]()                                  |
-|  6  | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                                    [Solution.cpp]()                         |
-|  7  | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                              [Solution.cpp]()                                 |
+|:---:|:--------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  1  | [Chevaux de Course](https://www.codingame.com/training/easy/horse-racing-duals)                      |             [Solution.cpp]()                       |
+|  2  | [Défibrillateurs](https://www.codingame.com/training/easy/defibrillators)                       |               [Solution.cpp]()                           |
+|  3  | [Power of Thor- Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                       |                 [Solution.cpp]()                              |
+|  4  | [MIME Type](https://www.codingame.com/training/easy/mime-type)  |    [Solution.cpp]()  |
+|  5  | [Températures](https://www.codingame.com/training/easy/temperatures)           |            [Solution.cpp]()              |
