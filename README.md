@@ -26,6 +26,6 @@ Solutions are coded using C++ 14
 |  5  | [Températures](https://www.codingame.com/training/easy/temperatures)           |            [Solution.cpp](https://github.com/Nedriia/CodeinGame/blob/master/CodeInGames/Puzzle_Classique_Facile/Temperatures/Solution.cpp)              |
 
 # Bots Battle
-|Puzzle|Challenge|Solution|
-|:---:|:--------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  1  | [Coders Strike Back](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back)                      |             [Solution.cpp](https://github.com/Nedriia/CodeinGame/blob/master/CodeInGames/Bots_Battle/Coders_Strike_Back/Solution.cpp)                       |
+|Puzzle|Challenge|Solution|League|
+|:---:|:--------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------:|
+|  1  | [Coders Strike Back](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back)                      |             [Solution.cpp](https://github.com/Nedriia/CodeinGame/blob/master/CodeInGames/Bots_Battle/Coders_Strike_Back/Solution.cpp)                       |Gold|
