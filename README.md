@@ -24,6 +24,15 @@ Solutions are coded using C++ 14
 |  3  | [Power of Thor- Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                       |                 [Solution.cpp](https://github.com/Nedriia/CodeinGame/blob/master/CodeInGames/Puzzle_Classique_Facile/Power_of_Thor_Episode1/Solution.cpp)                              |
 |  4  | [MIME Type](https://www.codingame.com/training/easy/mime-type)  |    [Solution.cpp](https://github.com/Nedriia/CodeinGame/blob/master/CodeInGames/Puzzle_Classique_Facile/MIME_Type/Solution.cpp)  |
 |  5  | [Températures](https://www.codingame.com/training/easy/temperatures)           |            [Solution.cpp](https://github.com/Nedriia/CodeinGame/blob/master/CodeInGames/Puzzle_Classique_Facile/Temperatures/Solution.cpp)              |
+|  6  | [Dolbear's Law](https://www.codingame.com/training/easy/dolbears-law)           |            [Solution.cpp](https://github.com/Nedriia/CodeinGame/blob/master/CodeInGames/Puzzle_Classique_Facile/Dolbear_s_law/Solution.cpp)              |
+|  7  | [Stall Tilt](https://www.codingame.com/training/easy/stall-tilt)           |            [Solution.cpp](https://github.com/Nedriia/CodeinGame/blob/master/CodeInGames/Puzzle_Classique_Facile/Stall_Tilt/Solution.cpp)              |
+
+# Puzzle Classique Moyen
+
+|Puzzle|Challenge|Solution|
+|:---:|:--------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  1  | [Don't Panic](https://www.codingame.com/training/medium/don't-panic-episode-1)                      |             [Solution.cpp](https://github.com/Nedriia/CodeinGame/blob/master/CodeInGames/Puzzle_Classique_Moyen/Don_t_Panic/Solution.cpp)                       |
+
 
 # Bots Battle
 |Puzzle|Challenge|Solution|League|
